@@ -7,4 +7,4 @@ Instead of deleting it like I do with many other personal projects, I decided to
 
 To compile/test it, of course, you will need to download **[LÖVE2D](https://github.com/love2d/love)**. If you need help on it, go read their **[documentation](https://love2d.org/wiki/love)**
 
-You can download the compiled version of the game by clicking **[here](https://github.com/jota11/Simple-Clicking-Game/releases/latest)**, or simply going to the **[Releases](https://github.com/jota11/Simple-Clicking-Game/releases)** page of this repository.
+You can download the compiled version of the game by clicking **[here](https://github.com/jota11/Simple-Clicking-Game/releases/latest)**, or simply going to the **[Releases](https://github.com/jota11/Simple-Clicking-Game/releases)** page of this repository. **(Windows 64-bit only)**
